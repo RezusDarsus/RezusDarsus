@@ -1,4 +1,4 @@
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RezusDarsus&show_icons=true&locale=en&theme=radical&layout=compact" alt="RezusDarsus" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RezusDarsus&show_icons=true&locale=en&theme=radical&layout=compact" alt="RezusDarsus" /> </p>
 
 <!--
 **RezusDarsus/RezusDarsus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
