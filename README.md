@@ -27,35 +27,10 @@ I enjoy building backend systems, REST APIs, distributed applications, AI-powere
 - 🚀 Interested in backend engineering, distributed systems, cloud technologies, and AI
 - 📚 Constantly working on practical projects alongside university studies
 
----
 
-## 🚀 Featured Project
 
-### 🧠 StudyOS
 
-**StudyOS** is an AI-powered persistent study workspace designed to help students learn from their own course materials.
 
-The project is being built around ideas such as:
-
-- PDF ingestion and processing
-- Semantic search
-- Retrieval-Augmented Generation
-- Vector embeddings
-- Persistent cross-chat memory
-- Learning progress tracking
-- Quiz and exercise generation
-- Exam-topic prediction
-- Student knowledge modelling
-- Readiness scoring
-- Personalized study planning
-
-### Tech
-
-`Java` • `Spring Boot` • `PostgreSQL` • `pgvector` • `REST APIs` • `AI/LLM APIs` • `Embeddings`
-
-> StudyOS is one of my main long-term engineering projects and is focused on combining backend engineering, AI, information retrieval, and education technology.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -91,39 +66,3 @@ The project is being built around ideas such as:
 
 ---
 
-## 💻 Technologies I Work With
-
-```text
-Languages:
-Java, Python, JavaScript, PHP, SQL
-
-Backend:
-Spring Boot
-Spring MVC
-Spring Data JPA
-Hibernate
-REST APIs
-
-Databases:
-PostgreSQL
-MySQL
-pgvector
-
-Cloud & DevOps:
-AWS
-Docker
-Git
-GitHub
-Linux
-Maven
-
-Frontend:
-HTML
-CSS
-JavaScript
-
-AI / Data:
-LLM APIs
-Embeddings
-Vector Search
-Retrieval-Augmented Generation
