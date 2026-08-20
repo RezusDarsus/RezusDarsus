@@ -12,14 +12,23 @@ Java / Spring Backend Developer • Computer Science Student • Software Engine
 
 ---
 
-<h2 align="left">📊 Most Used Languages</h2>
+## 👨‍💻 About Me
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezusDarsus&layout=compact&theme=radical&langs_count=10"
-    alt="Most Used Languages"
-  />
-</p>
+I'm a Computer Science student and backend developer focused primarily on the Java ecosystem.
+
+I enjoy building backend systems, REST APIs, distributed applications, AI-powered tools, and projects that solve real problems.
+
+- 🎓 Computer Science student at Kutaisi International University
+- ☕ Focused on Java, Spring Boot, REST APIs, PostgreSQL, and backend development
+- 🌱 Currently improving my Spring, DevOps, cloud, and system design skills
+- 🤖 Interested in AI-powered developer and education tools
+- 🧠 Building **StudyOS**, an intelligent learning workspace
+- 👨‍🏫 Experience teaching programming, including HTML, CSS, JavaScript, and Python
+- 🚀 Interested in backend engineering, distributed systems, cloud technologies, and AI
+- 📚 Constantly working on practical projects alongside university studies
+
+---
+
 
 ## 🛠️ Tech Stack
 
